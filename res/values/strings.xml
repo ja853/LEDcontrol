@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LEDControl</string>
+    <string name="buttonText">PRESS ME</string>
+</resources>
